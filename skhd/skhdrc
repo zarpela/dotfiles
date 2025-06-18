@@ -1,0 +1,20 @@
+# Simple skhd configuration file
+# Basic application shortcuts
+
+# Open VS Code
+alt - c : open -a "Visual Studio Code"
+
+# Open iTerm2
+alt - t : open -a "kitty"
+
+# Open Firefox
+alt - f : open -a "Firefox"
+
+#toggle window split type
+alt - e : aerospace split vertical
+
+#toggle window zoom
+alt - return : aerospace fullscreen
+
+# You can add more shortcuts following the same pattern:
+# modifier(s) - key da
